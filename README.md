@@ -21,4 +21,7 @@ Follow these instructions to set up the React Music App on your local machine fo
 - Configure the RapidAPI key in the app.
 - Run the app: npm start
 
+**Thank you** for considering the React Music App! We hope you enjoy the app as much as we enjoyed building it. If you encounter any issues or have suggestions for improvements, feel free to open an issue or contact us.
+
+Happy listening! 🎵🎧
 
