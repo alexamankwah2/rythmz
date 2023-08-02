@@ -10,6 +10,10 @@ The React Music App is a cutting-edge music streaming application that aims to p
 - **Audio Controls:** Control playback with a fully functional audio player featuring play, pause, skip, volume adjustment, and track progress.
 - **Lyrics Display:** Get the lyrics of the currently playing track synchronized with the music playback.
 - **Responsive Design:** The app is fully responsive, providing a seamless experience across various devices and screen sizes.
+
+  https://github.com/alexamankwah2/rythmz/assets/128336742/2cee91ef-28e4-4151-a1a9-0bcde82744aa
+
+[Check it out](https://rythmz.netlify.app/)
   
 ## Getting Started
 Follow these instructions to set up the React Music App on your local machine for development and testing purposes.
