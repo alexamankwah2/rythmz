@@ -1,7 +1,7 @@
 # Rythmz Music App
 <img width="1440" alt="Screenshot 2023-08-02 at 11 12 34 AM" src="https://github.com/alexamankwah2/rythmz/assets/128336742/b3f0bb90-0609-4e0c-938a-cc59aa8b769f">
 
-The React Music App is a cutting-edge music streaming application that aims to provide an enhanced user experience while enjoying your favorite tunes. This app is built using React, Tailwind CSS, Redux, and integrates with RapidAPI to access a vast library of music content. Whether you're a music enthusiast, a casual listener, or an audiophile, this app has something special for you. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more.
+Rythmz Music App is a cutting-edge music streaming application that aims to provide an enhanced user experience while enjoying your favorite tunes. This app is built using React, Tailwind CSS, Redux, and integrates with RapidAPI to access a vast library of music content. Whether you're a music enthusiast, a casual listener, or an audiophile, this app has something special for you. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more.
 
 ## Featured
 - **Extensive Music Library:** Access an extensive music library with millions of songs from various artists and genres.
